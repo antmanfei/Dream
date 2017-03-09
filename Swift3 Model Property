@@ -1,0 +1,5 @@
+Swift Model Property set value
+let mirror:Mirror = Mirror.init(reflecting: self)
+for p in mirror.children {
+    copyModel.setValue(p.value, forKey: p.label!)
+}
