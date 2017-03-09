@@ -1,0 +1,7 @@
+    // MARK: TextLines
+    func titleLines() -> Int {
+       let singlineHeight = titleLabel.font.lineHeight
+       let titleHeight = titleLabel.textRect(forBounds: titleLabel.frame, limitedToNumberOfLines: 0).size.height
+
+        return Int.init(titleHeight / singlineHeight)
+    }
