@@ -1,0 +1,8 @@
+在源文件中忽略警告
+在一些第三方库中，总能看到下面这段代码的身影，这就是用于忽略某个警告
+
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "警告标识符"
+...
+...
+#pragma clang diagnostic pop
