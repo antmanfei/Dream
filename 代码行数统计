@@ -1,0 +1,11 @@
+Unix command
+find . -name "*.plist" -or -name "*.storyboard" -or -name "*.xib" -or -name "*.strings" |xargs wc -l
+find . -name "*.storyboard" -or -name "*.xib" |xargs wc -l
+find . -name "*.plist" -or -name "*.strings" -or -name "*.pbxproj" |xargs wc -l
+find . -name "*.json" -or -name "*.pbxproj" |xargs wc -l
+find . -name "*.swift" |xargs grep -v "^$"|wc -l
+find . -name "*.swift" |xargs cat|grep -v -e ^$ -e ^\s*\/\/.*$ -e ^\s*\/.*$ -e ^\s*\/.*$  |wc -l
+
+Tools:
+MacOS: xcode project (oc only)
+Wins:  SourceCount
