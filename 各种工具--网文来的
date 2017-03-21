@@ -1,0 +1,57 @@
+原文
+hi，小伙伴们，以下是我最近用到的各种各样的iOS开发工具，有服务，有工具，有网站，有框架以及其他等等。
+工具
+Gitkraken是一个炫酷又非常容易上手的Git图形化工具，可以自动添加GitFlow
+Gitscout可浏览、组织以及管理你的GitHub Issues
+GitBar是菜单栏上的git提醒工具
+Build Time Analyzer是一款适用于Swift的实用编译时间分析工具
+Tomato One是一个可提高工作效率的番茄时钟
+WatchDog可自动清理DerivedData，而无需退出Xcode或者重启macOS
+Cakebrew是图形化管理Homebrew的一个软件
+Liya可通过单个界面同时访问MySQL、PostgreSQL以及SQLite3三种数据库系统 
+Quiver是专为程序员打造的notebook，支持文本、代码、Markdown和LaTeX文件混编，通过代码编辑器编辑代码，并支持实时预览。
+Oh My Zsh一个超酷的命令行扩展工具，帮你打造超级终端。
+Pocket离线阅读服务软件，也可以安装下网页文本标记工具LINER。
+Squash是图片压缩工具  
+假如你知道Sketch，那么也可以了解下Zeplin，它是前端与设计协同工作专用工具，能够帮助前端更好地理解设计师意图，而设计师又能快速得到前端反馈
+Reveal通过视图层次帮你理解复杂的app 并提供相关Debug功能
+SizeUp窗口管理神器，通过快捷键完成窗口定位和自由变换。
+BitBar 可以让你在 OS X 的菜单条上放置任何东西，比如平均评分、应用状态以及版本等。
+Paste可帮你轻松管理代码片段。
+Easy APNs Provider是最好的push通知测试工具 
+Gitsome是一个非常强大的Git/GitHub命令行工具界面。 
+播客
+PodcastMenu可把Overcast放在Mac的菜单栏上，以便于你边工作边听。
+框架
+Fakery可在开发过程中生成大批量的测试数据 
+LocalizationKit_iOS 是一个用Swift编写的云端国际化工具，可实时动态更新文本，无需重新编辑和部署。适用于iOS 和 Mac OS平台。
+Armchair是一个用Swift编写的简单但强大的应用评论管理工具，适用于iOS和Mac OSX平台。
+Siren可以检测用户安装的应用版本，并在有新版本时通知用户。 
+SwiftGen是一个可以自动生成Swift代码的工具。 
+Bohr 是一个设置屏幕组成的框架。
+SwiftyJSON可以让你在 Swift 语言中更好的处理 JSON 数据。 
+SwiftyBeaver是一款用于Swift项目的多彩可扩展的，轻量级日志记录器。
+Gloss是一个JSON解析库，支持：映射 JSON 到对象，映射对象到 JSON，嵌套对象，自定义转换
+Hero 是一个强大的用于构建自定义切换（转场）效果的开源库
+网站
+AppSight查看某款iOS APP使用了哪些SDK和服务。
+iOSCookies分类整理了使用Swift编写的iOS库 
+知名iOS开发者Ole Begemann的博客 
+iOS和Mac开发的一些实用技巧-little bites of cocoa 
+Toptal是全球精英自由职业者平台，号称只雇佣前3%的自由职业软件开发者和设计师。
+开发者Erica Sadun的博客
+其他
+我最常用的Mac终端命令和快捷键
+Xcode快捷键列表
+Public-APIs提供了目前公开的API更新列表
+最好的iOS字体库
+服务
+如果你不想安装本地MongoDB、Mysql、Jenkins或者Minecraft，Docker是个不错的选择，甚至比你想象中的还能干。你可以通过Docker为项目或者原型搭建后端、数据库以及分布式应用程序。不过要弄清你用的是不是Docker for Swift
+如果你使用了Docker，最好也尝试下Kitematic和Captain
+如果你需要云计算服务，我最喜欢的是digitalOcean
+我使用Asana管理项目
+使用GoogleAnalytics进行统计和分析
+在Zoommy寻找高bigger的大图
+TheNounProject免费提供高辨识度符号图标
+
+原文：http://www.cocoachina.com/ios/20170317/18906.html
