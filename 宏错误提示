@@ -1,0 +1,4 @@
+例子
+#if __has_feature(objc_arc)
+#error JSONKit does not support Objective-C Automatic Reference Counting (ARC)
+#endif
